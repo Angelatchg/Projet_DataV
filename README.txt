@@ -30,6 +30,13 @@ pip install -r requirements.txt
 ### Préparer les données
 python merge_data.py
 
+##Lien Streamlit
+https://angelatchg-projet-datav-app-yxxobc.streamlit.app/
+
+##Lien Github
+https://github.com/Angelatchg/Projet_DataV
+
+
 ### Lancer Streamlit
 streamlit run app.py
 
